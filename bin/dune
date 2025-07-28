@@ -1,0 +1,4 @@
+(executables
+ (names repl)
+ (modules repl)
+ (libraries myml))

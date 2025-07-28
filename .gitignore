@@ -1,0 +1,11 @@
+_build/
+*.swp
+*.exe
+*.cmo
+*.cmi
+*.cmx
+*.o
+*.annot
+*.merlin
+*.install
+.opam-switch/

@@ -1,0 +1,10 @@
+
+(library
+ (name myml)
+ (modules
+   ast types env substitution infer
+    parser lexer interpreter eval  ))  
+  
+
+
+
